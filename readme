@@ -1,2 +1,8 @@
-Mp77-s-GLEx is a experimental platform based on OpenGL, all its code is from NEHE tutorial and Internet.
-Notice that NEHE's tutorial is not adapt for mordern graphics programming, though they are running very well in most OS today. I gived a few modification on these code so that some new style can be performed, But the programming base still came from NEHE, After all.
+Mp77-s-GLEx is an experimental platform based on OpenGL, all its code is from NEHE tutorials and Others' resources on Internet.
+Notice that NEHE's tutorial is not adapt for mordern graphics programming, though they are almost running very well for even every OS today. I gived a few modification on these code so that some new style can be performed, But the programming base still came from NEHE, After all.
+
+Since these code is based on Visual Studio 2010 and Qt 4.7.3, the including files above must be prepared before perform compling.
+You may also need the newest visual studio add in from Qt official website:
+http://qt.nokia.com/downloads/visual-studio-add-in
+
+For saving space, I didn't upload ./Data/ directory which concludes some terrain and texture data revised by me, they are nearly 80mb in total. If you need to these data files, please contact me 8621316@qq.com.
