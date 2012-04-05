@@ -1,8 +1,11 @@
 #ifndef GLEX_H
 #define GLEX_H
 
+#include "glexmainview.h"
 #include <QtGui/QMainWindow>
+#include <QGLWidget>
 #include "ui_glex.h"
+
 
 class GLEx : public QMainWindow
 {
@@ -14,6 +17,8 @@ public:
 
 private:
 	Ui::GLExClass ui;
+
+	GLExMainView *mainview;
 };
 
 #endif // GLEX_H
